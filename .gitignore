@@ -1,0 +1,14 @@
+*/__pycache__/
+*.pyc
+Lib
+Scripts
+pyvenv.cfg
+*.log
+*.pot
+local_settings.py
+db.sqlite3
+venv/
+client_secret.json
+mainapp/migrations
+.DS_Store
+media/*
