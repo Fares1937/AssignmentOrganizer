@@ -18,7 +18,7 @@ To install postgres on windows (if anyone knows mac well, please populate this d
 17) Profit
 
 To configure client_secret setup
-1) Ask me (Brian Christner) for the client secret json
+1) Ask me for the client secret json
 2) Put client secret in client_secret.json in the main directory
 3) **Do not mess up the file name, we do not want to publish this on github**
 4) Profit
